@@ -9,7 +9,8 @@
 
 Если выбран режим командной строки, вам нужно указать следующие параметры: 
 
-    --type=annuity или diff --periods=
+    --type=annuity или diff 
+    --periods=...(int)
     --principal=...(int)
     --interest=...(float)
     --payment=...(int) 
